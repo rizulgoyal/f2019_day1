@@ -12,7 +12,6 @@ public class FirstDay
         a=10;
         b=20;
 
-        //perform add
         c=a+b;
 
         //displayt result
