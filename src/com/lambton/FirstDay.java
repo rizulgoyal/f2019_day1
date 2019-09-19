@@ -30,7 +30,7 @@ public class FirstDay
  Student s2 = new Student();
  s2.studentID=2;
  s2.studentName="Harpreet Singh";
-
+//call another function
  s2.display();
 
         Student s3 = new Student();
