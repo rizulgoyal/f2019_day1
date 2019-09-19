@@ -38,5 +38,10 @@ public class FirstDay
         s3.studentName="Anmol Sharma";
 
         s3.display();
+
+        for(int i =1; i<=10;i++)
+        {
+            System.out.println("rizul");
+        }
     }
 }
